@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fbbfe1810c3b74469e9982b325131c3, type: 3}
+  m_Name: ConfigGame
+  m_EditorClassIdentifier: 
+  timeMatch: 80
+  speedFlyCard: 0.3
+  countMatchCard: 3
+  scoreBonus: 10
+  countDownCombo: 5
+  scaleDownRatio: 0.5
+  forceToLipCard: 20
+  limitToLipCard: 0.5
